@@ -1,0 +1,11 @@
+/home/xiaolj/DesignMode/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp
+/home/xiaolj/DesignMode/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/home/xiaolj/DesignMode/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/home/xiaolj/DesignMode/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/home/xiaolj/DesignMode/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/home/xiaolj/DesignMode/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/home/xiaolj/DesignMode/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache
+/home/xiaolj/DesignMode/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/home/xiaolj/DesignMode/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/home/xiaolj/DesignMode/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/home/xiaolj/DesignMode/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
