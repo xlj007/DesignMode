@@ -1,0 +1,8 @@
+/home/xiaolj/DesignMode/StrategyPattern/bin/Debug/netstandard2.0/StrategyPattern.deps.json
+/home/xiaolj/DesignMode/StrategyPattern/bin/Debug/netstandard2.0/StrategyPattern.dll
+/home/xiaolj/DesignMode/StrategyPattern/bin/Debug/netstandard2.0/StrategyPattern.pdb
+/home/xiaolj/DesignMode/StrategyPattern/obj/Debug/netstandard2.0/StrategyPattern.csprojAssemblyReference.cache
+/home/xiaolj/DesignMode/StrategyPattern/obj/Debug/netstandard2.0/StrategyPattern.AssemblyInfoInputs.cache
+/home/xiaolj/DesignMode/StrategyPattern/obj/Debug/netstandard2.0/StrategyPattern.AssemblyInfo.cs
+/home/xiaolj/DesignMode/StrategyPattern/obj/Debug/netstandard2.0/StrategyPattern.dll
+/home/xiaolj/DesignMode/StrategyPattern/obj/Debug/netstandard2.0/StrategyPattern.pdb
