@@ -2,7 +2,7 @@
 
 namespace StrategyPattern
 {
-    public class Class1
+    public class Duck
     {
     }
 }
